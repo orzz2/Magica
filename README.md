@@ -1,4 +1,4 @@
-# Magica
+# Magica  -1
 
 Privilege Escalation PoC when seccomp is disabled for Android 10+.
 
